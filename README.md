@@ -9,7 +9,7 @@ Proyecto de ciencia de datos para anticipar la **longitud de estancia (LOS)** y 
 ### Opción A — Google Colab (recomendada)
 1) Abrir el **Colab** desde el enlace de arriba.  
 2) Menú **Entorno > Reiniciar y ejecutar todo**.  
-3) Si preferís tu `.ipynb` local o alojado en otro Drive, en Colab usar:
+3) Si se prefiere usar el `.ipynb` local o alojado en otro Drive, en Colab usar:
    - **Archivo > Subir notebook** (para un `.ipynb` local), o
    - **Archivo > Abrir cuaderno > Google Drive** (para usar en Drive propio).
 
