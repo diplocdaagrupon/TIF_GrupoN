@@ -28,8 +28,3 @@ source .venv/bin/activate
 # Instalar dependencias
 pip install -U pip
 pip install -r requirements.txt
-
-# Ejecutar (notebook o script)
-# 1) Abrí el .ipynb con Jupyter/VSCode
-# 2) (Opcional) Si tenés script principal:
-# python run_experiments.py --seed 42
