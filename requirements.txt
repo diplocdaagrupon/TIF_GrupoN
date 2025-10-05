@@ -6,3 +6,5 @@ lightgbm
 matplotlib
 tensorflow
 kagglehub
+chardet
+ipython
