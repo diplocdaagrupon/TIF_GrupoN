@@ -20,11 +20,16 @@ git clone https://github.com/diplocdaagrupon/TIF_GrupoN.git
 cd TIF_GrupoN
 
 # Crear y activar entorno
-python -m venv .venv
-# Windows: .venv\Scripts\activate
+python -m venv envtifgrupon
+# Windows (PowerShell):
+.\envtifgrupon\Scripts\Activate.ps1
+# Windows (cmd):
+.\envtifgrupon\Scripts\activate.bat
 # Linux/Mac:
-source .venv/bin/activate
+source envtifgrupon/bin/activate
 
 # Instalar dependencias
-pip install -U pip
 pip install -r requirements.txt
+
+# Ejecutar
+python src/version_final.py
